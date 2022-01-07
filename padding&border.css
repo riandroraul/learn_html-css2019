@@ -1,0 +1,13 @@
+div {
+	background-color: violet;
+	width: 300px;
+	height: 300px;
+	border-top: 5px dotted black;
+	border-bottom: 5px dashed black;
+	border-left: 5px solid lightskyblue;
+	border-right: 5px double blue;
+	margin: 50px auto;
+	padding: 30px;
+	box-sizing: border-box;
+	
+}
